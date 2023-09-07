@@ -1,4 +1,4 @@
-# ### Note: The styles for this gradient grid background is heavily inspired by the creator of this amazing site (https://dub.sh) – all credits go to them! 
+# Note: The styles for this gradient grid background is heavily inspired by the creator of this amazing site (https://dub.sh) – all credits go to them! 
 # React + TypeScript + Vite + RapidAPI
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
